@@ -1,0 +1,122 @@
+{
+  "The Mummy": {
+    "Runtime": "125 min",
+    "Released": "27 Nov 1999",
+    "Year": "1999",
+    "Rated": "PG-13",
+    "Plot": "An American serving in the French Foreign Legion on an archaeological dig at the ancient city of Hamunaptra accidentally awakens a mummy.",
+    "Title": "The Mummy",
+    "Actors": "Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo",
+    "Genre": "Action"
+  },
+  "Bless Me, Ultima": {
+    "Runtime": "106 min",
+    "Released": "27 Nov 2013",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Plot": "A drama set in New Mexico during WWII, centered on the relationship between a young man and an elderly medicine woman who helps him contend with the battle between good and evil that rages in his village.",
+    "Title": "Bless Me, Ultima",
+    "Actors": "Luke Ganalon, Miriam Colon, Benito Martinez, Dolores Heredia",
+    "Genre": "Drama"
+  },
+  "A new movie": {
+    "Runtime": "sdf",
+    "Released": "sdfs",
+    "Year": "sfs",
+    "Rated": "sdf",
+    "Plot": "sf",
+    "Title": "A new movie",
+    "Actors": "sdf",
+    "Genre": "Biography"
+  },
+  "Interstellar": {
+    "Runtime": "169 min",
+    "Released": "27 Nov 2014",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "Title": "Interstellar",
+    "Actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
+    "Genre": "Adventure"
+  },
+  "Jobs": {
+    "Runtime": "128 min",
+    "Released": "27 Nov 2013",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Plot": "The story of Steve Jobs' ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century.",
+    "Title": "Jobs",
+    "Actors": "Ashton Kutcher, Dermot Mulroney, Josh Gad, Lukas Haas",
+    "Genre": "Biography"
+  },
+  "The World Is Not Enough": {
+    "Runtime": "128 min",
+    "Released": "27 Nov 1999",
+    "Year": "1999",
+    "Rated": "PG-13",
+    "Plot": "James Bond uncovers a nuclear plot when he protects an oil heiress from her former kidnapper, an international terrorist who can't feel pain.",
+    "Title": "The World Is Not Enough",
+    "Actors": "Pierce Brosnan, Sophie Marceau, Robert Carlyle, Denise Richards",
+    "Genre": "Thriller"
+  },
+  "Cowboys & Aliens": {
+    "Runtime": "119 min",
+    "Released": "27 Nov 2011",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Plot": "A spaceship arrives in Arizona, 1873, to take over the Earth, starting with the Wild West region. A posse of cowboys and natives are all that stand in their way.",
+    "Title": "Cowboys & Aliens",
+    "Actors": "Daniel Craig, Abigail Spencer, Buck Taylor, Matthew Taylor",
+    "Genre": "Thriller"
+  },
+  "San Andreas": {
+    "Runtime": "114 min",
+    "Released": "27 Nov 2015",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Plot": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey with his ex-wife across the state in order to rescue his daughter.",
+    "Title": "San Andreas",
+    "Actors": "Dwayne Johnson, Carla Gugino, Alexandra Daddario, Ioan Gruffudd",
+    "Genre": "Thriller"
+  },
+  "Frozen": {
+    "Runtime": "102 min",
+    "Released": "27 Nov 2013",
+    "Year": "2013",
+    "Rated": "PG",
+    "Plot": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
+    "Title": "Frozen",
+    "Actors": "Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad",
+    "Genre": "Comedy"
+  },
+  "National Treasure": {
+    "Runtime": "131 min",
+    "Released": "27 Nov 2004",
+    "Year": "2004",
+    "Rated": "PG",
+    "Plot": "A historian races to find the legendary Templar Treasure before a team of mercenaries.",
+    "Title": "National Treasure",
+    "Actors": "Nicolas Cage, Diane Kruger, Justin Bartha, Sean Bean",
+    "Genre": "Action"
+  },
+  "The Internship": {
+    "Runtime": "119 min",
+    "Released": "27 Nov 2013",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Plot": "Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.",
+    "Title": "The Internship",
+    "Actors": "Vince Vaughn, Owen Wilson, Rose Byrne, Aasif Mandvi",
+    "Genre": "Comedy"
+  },
+  "Pixels": {
+    "Runtime": "106 min",
+    "Released": "27 Nov 2015",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Plot": "When aliens misinterpret video feeds of classic arcade games as a declaration of war, they attack the Earth in the form of the video games.",
+    "Title": "Pixels",
+    "Actors": "Adam Sandler, Kevin James, Michelle Monaghan, Peter Dinklage",
+    "Genre": "Action"
+  }
+}
